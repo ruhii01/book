@@ -1,4 +1,3 @@
-package book;
 
 class BookSales{
     String sales_name;
